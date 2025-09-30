@@ -2,7 +2,6 @@
 
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 A smart and interactive dashboard to upload your bank statements, auto-categorize your expenses, and get **AI-powered financial insights** — built using **Python, Streamlit, Pandas, and Scikit-Learn**.
@@ -44,4 +43,5 @@ A smart and interactive dashboard to upload your bank statements, auto-categoriz
 Jayashree Rajkumar
 MSc Data Analytics
 Email: rjayashree01@gmail.com
+
 
